@@ -7,9 +7,11 @@
   },
   "dependencies": {
     "apsl-react-native-button": "^2.4.2",
+    "art": "^0.10.1",
     "lodash": "^4.5.1",
     "react-motion": "^0.4.2",
     "react-native": "^0.20.0",
+    "react-native-art-svg": "^1.1.0",
     "react-native-cookies": "0.0.3",
     "react-native-progress-bar": "^0.1.2",
     "react-native-scrollable-tab-view": "^0.3.7",
